@@ -17,7 +17,7 @@ You can view or download my latest resume here:
 
 [![Resume](https://img.shields.io/badge/View_CV-PDF-blue?logo=adobeacrobatreader&logoColor=white)](https://github.com/sjha04180/sjha04180/blob/main/My_Resume.pdf)
 
-📥 [Download Resume](https://github.com/your-username/your-repo-name/raw/main/Sachin_Resume.pdf)
+📥 [Download Resume](https://github.com/sjha04180/sjha04180/raw/main/My_Resume.pdf)
 
 
 # 💻 Tech Stack:
