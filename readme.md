@@ -171,26 +171,6 @@ MongoDB • Express • Node.js • JWT
 
 ---
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=sjha04180&theme=onedark&no-frame=true&margin-w=10)
-
----
-
-# 📈 Contribution Graph
-
-[![Sachin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sjha04180&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/sjha04180/sjha04180/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 ### 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=sjha04180&style=for-the-badge&color=blue)
