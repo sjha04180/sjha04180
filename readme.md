@@ -29,7 +29,7 @@
 
 🧠 Solved **100+ Data Structures & Algorithms problems** across LeetCode, GeeksforGeeks, Code360, CodeChef, HackerRank, and Codeforces.
 
-🏆 Participated in **10+ national-level hackathons**, including:
+🏆 Participated in **15+ national-level hackathons**, including:
 - **Odoo × SPIT Hackathon — Qualified for Round 2**
 - **Mumbai Hacks — Qualified for Offline Final Round**
 
@@ -42,7 +42,7 @@
 # 📄 Resume
 
 <p align="center">
-  <a href="YOUR_GOOGLE_DRIVE_RESUME_LINK">
+  <a href="https://drive.google.com/file/d/1Pq5bon3-_bAk_EerCIOTNmoRAMyfGWfj/view?usp=sharing">
     <img src="https://img.shields.io/badge/📄%20View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
 </p>
@@ -216,7 +216,7 @@ A full-stack blogging application focused on content management, authentication,
 
 </p>
 
-Solved **100+ Data Structures & Algorithms problems** across:
+Solved **200+ Data Structures & Algorithms problems** across:
 
 `LeetCode` • `GeeksforGeeks` • `Code360`  
 `CodeChef` • `HackerRank` • `Codeforces`
