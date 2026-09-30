@@ -211,7 +211,7 @@ A full-stack blogging application focused on content management, authentication,
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/100%2B-DSA%20Problems-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/200%2B-DSA%20Problems-00C853?style=for-the-badge"/>
 
 </p>
 
@@ -248,15 +248,26 @@ Solved **200+ Data Structures & Algorithms problems** across:
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sjha04180&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sjha04180&theme=tokyonight&hide_border=true" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sjha04180&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    height="170"
+    alt="Sachin's GitHub Statistics"
+  />
+
+  <img
+    src="https://streak-stats.demolab.com?user=sjha04180&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Sachin's GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjha04180&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjha04180&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    height="170"
+    alt="Sachin's Top Languages"
+  />
 </p>
-
----
 
 # 📈 Currently Focused On
 
