@@ -93,31 +93,34 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
-### Databases & ODM
+### Databases & ORM
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma"/>
 </p>
 
-### Data Science
-
-<p>
-<img src="https://skillicons.dev/icons?i=python"/>
-</p>
-
-`NumPy` • `Pandas` • `Matplotlib` • `Seaborn`
+`MongoDB Atlas` • `Mongoose`
 
 ### Authentication & APIs
 
-`NextAuth.js` • `JWT` • `REST APIs`
-
-### Tools & Platforms
-
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel"/>
+<img src="https://skillicons.dev/icons?i=clerk"/>
 </p>
 
-`MongoDB Atlas` • `Cloudinary` • `Mongoose`
+`NextAuth.js` • `JWT` • `WSO2` • `REST APIs`
+
+### Data Science & Visualization
+
+`NumPy` • `Pandas` • `Matplotlib` • `Seaborn`
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker,vercel"/>
+</p>
+
+`Cloudinary`
+
 
 ---
 
