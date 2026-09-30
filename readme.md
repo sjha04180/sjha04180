@@ -249,23 +249,15 @@ Solved **200+ Data Structures & Algorithms problems** across:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=sjha04180&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    height="170"
-    alt="Sachin's GitHub Statistics"
-  />
-
-  <img
-    src="https://streak-stats.demolab.com?user=sjha04180&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Sachin's GitHub Streak"
+    src="https://streak-stats.demolab.com/?user=sjha04180&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjha04180&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    height="170"
-    alt="Sachin's Top Languages"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sjha04180&theme=tokyo-night&hide_border=true"
+    alt="GitHub Activity Graph"
   />
 </p>
 
