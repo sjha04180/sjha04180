@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://my-portfolio-seven-mu-35.vercel.app/">
+  <a href="https://sachinjha04180.vercel.app/">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-111827?style=for-the-badge"/>
   </a>
   <a href="mailto:sjha04180@gmail.com">
@@ -42,7 +42,7 @@
 # 📄 Resume
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1Pq5bon3-_bAk_EerCIOTNmoRAMyfGWfj/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1kcWUVwbghXSaOFQZQ2j5zru0sCpCT1mK/view?usp=sharing">
     <img src="https://img.shields.io/badge/📄%20View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
 </p>
