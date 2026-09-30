@@ -247,12 +247,14 @@ Solved **200+ Data Structures & Algorithms problems** across:
 
 # 📊 GitHub Statistics
 
+![](https://github-readme-stats-one-bice.vercel.app/api?username=sjha04180&show_icons=true&theme=tokyonight)
+
+# 📈 Contribution Graph
+
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=sjha04180&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sjha04180&theme=github-dark&hide_border=true" alt="GitHub Contribution Graph"/>
 </p>
+
 
 # 📈 Currently Focused On
 
