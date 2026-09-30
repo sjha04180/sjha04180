@@ -103,11 +103,7 @@
 
 ### Authentication & APIs
 
-<p>
-<img src="https://skillicons.dev/icons?i=clerk"/>
-</p>
-
-`NextAuth.js` • `JWT` • `WSO2` • `REST APIs`
+`NextAuth.js` • `JWT` • `WSO2` • `Clerk` • `REST APIs`
 
 ### Data Science & Visualization
 
